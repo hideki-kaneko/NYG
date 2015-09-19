@@ -1,0 +1,6 @@
+Log.txt
+Debug/
+*.suo
+*.opensdf
+*.vcxproj.user
+*.sdf
